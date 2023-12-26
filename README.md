@@ -1,4 +1,4 @@
-# Keeper App (Google Keep) using ReactJS
+# Keeper App (like Google Keep) using ReactJS
 This is a Keeper App (like Google Keep Notes) made using ReactJS. User can add or delete a note.
 
 # What was used from ReactJS?
