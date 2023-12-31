@@ -6,7 +6,7 @@ This is a Keeper App (like Google Keep Notes) made using ReactJS. User can add o
 * React Components, Import, Export, and Modules.
 * React Props.
 * React DevTools.
-* Map/Filter.... Reduce etc not used.
+* Map/Filter.
 * Mapping Data to Components.
 * Arrow Functions.
 * React Conditional Rendering with the Ternary Operator.
