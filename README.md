@@ -10,7 +10,7 @@ This is a Keeper App (like Google Keep Notes) made using ReactJS. User can add o
 * Mapping Data to Components.
 * Arrow Functions.
 * React Conditional Rendering with the Ternary Operator.
-* React Hooks (useState).
+* React Hooks (like useState).
 * Object and Array Destructuring.
 * Event Handling.
 * Changing Complex State.
